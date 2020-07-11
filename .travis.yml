@@ -10,4 +10,5 @@ script:
 after_success:
   - firebase deploy --token $FIREBASE_TOKEN --non-interactive
   - npm run lh -- https://performance-e6c48.web.app/
-  - npm run lh -- --perf=95 https://performance-e6c48.web.app/
+  - npm run lh -- --perf=95 --seo=100 https://performance-e6c48.web.app/
+
