@@ -25,7 +25,7 @@
     "node": "8.1.x"
   },
   "repository": {
-    "url": "https://GoogleChromeLabs/lighthouse-bot-starter"
+    "url": "https://github.com/dylanburkey/lighthouse-build-test.git"
   },
   "license": "UNLICENSED"
 }
